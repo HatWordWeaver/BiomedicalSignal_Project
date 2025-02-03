@@ -38,4 +38,4 @@ The following dependencies are required:
   - *Ensure the file exists before running the algorithm.*
 
 - **Plotting Variables** (for single execution mode):
-  - `plot_final_merge`, `plot_comp_irr_bigeminy`, `plot_groundtruth`: Control whether certain figures are plotted.
+  - `plot_final_merge`, `plot_comp_irr_bigeminy`, `plot_groundtruth`: Control whether certain figures are plotted. Set them to '1' to plot.
